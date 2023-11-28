@@ -2,8 +2,8 @@
 
 InternDev Internship Assignment
 
-#### Landing_Page: [rolexpage](https://rolexpage.vercel.app/)
+#### Landing_Page: <a href="https://rolexpage.vercel.app/" target="_blank">rolexpage</a>
 
-#### PortFolio: [portfolio52](https://portfolio52.vercel.app/)
+#### PortFolio: <a href="https://portfolio52.vercel.app/" target="_blank">portfolio52</a>
 
-#### To-Do_List: [todolist52](https://todolist52.vercel.app/)
+#### To-Do_List: <a href="https://todolist52.vercel.app/" target="_blank">todolist52</a>
